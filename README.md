@@ -8,8 +8,8 @@ This repository includes the implementation and results of the paper "ChatGPT is
 *01_joke_generation.py* - Script for the first tasks, i.e., joke generation  
 *02_joke_explanation.py* - Script for the second tasks, i.e., joke explanation  
 *03_joke_detection.py* - Script for the third tasks, i.e., joke detection  
-*joke_analysis.ipynb.py* - some extra code that might help to reproduce the analysis. Not entirely cleaned.  
-*jokes_clean.txt* - All generated jokes without linebreaks and additional text.  
+*joke_analysis.ipynb.py* - Some extra code that might help to reproduce the analysis. Not entirely cleaned  
+*jokes_clean.txt* - All generated jokes without linebreaks and additional text  
 
 
 ## Citation
